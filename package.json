@@ -1,0 +1,32 @@
+{
+  "name": "fingerprintjs",
+  "version": "1.0.0",
+  "description": "Fingerprint tracking in your browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/performance-monitoring/fingerprintjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/performance-monitoring/fingerprintjs/issues"
+  },
+  "homepage": "https://github.com/performance-monitoring/fingerprintjs#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/signale": "^1.4.1",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.5",
+    "typescript-eslint-parser": "^22.0.0"
+  },
+  "dependencies": {
+    "jest-canvas-mock": "^2.2.0",
+    "save-dev": "0.0.1-security"
+  }
+}
